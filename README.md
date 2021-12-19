@@ -5,7 +5,7 @@ El sistema ofrece un menú al ejecutarse que es muy intuitivo, sin embargo, para
 
 Además, este sistema dado que ofrece respuestas basadas en la inclusión de palabras dadas por la consulta en la base de conocimiento, es generalizable para cualquier documento, si se quiere añadir algún otro simplemente se debe añadir un fichero json con el nombre de dicho documento con la información asociada para cada atributo del mismo en [Medicamentos](https://github.com/c-yanguas/Sistema-QA/tree/main/Codigo/Medicamentos).
 
-Se deja a continuación un ejemplo de consulta y la respuesta dada por el sistema:
+Otra cosa positiva del sistema es que ofrece explicabilidad, es decir, para cada respuesta generada se muestra el proceso para la misma. Veamos un ejemplo de consulta y respuesta para esto:
 
 consulta: ¿Tiene dezacor efectos adversos en el crecimiento de niños?
 
@@ -22,3 +22,5 @@ efectos_adversos
 - Trastornos musculo esqueléticos y del tejido conjuntivo: debilidad muscular, osteoporosis.
 - Trastornos oculares: alteraciones oculares.  
 
+
+Esto indica que se ha detectado el medicamneto dezacor y gracias a la palbra efectos se ha decidido devolver la información asociada al atributo efectos_adversos del fichero dezacor.json.

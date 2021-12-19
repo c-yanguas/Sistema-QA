@@ -11,7 +11,7 @@ consulta: ¿Tiene dezacor efectos adversos en el crecimiento de niños?
 
 respuestas:
 
-dezacor:efectos
+dezacor : efectos
 ---------------
 efectos_adversos
 

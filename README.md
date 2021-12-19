@@ -7,6 +7,7 @@ Además, este sistema dado que ofrece respuestas basadas en la inclusión de pal
 
 Se deja a continuación un ejemplo de consulta y la respuesta dada por el sistema:
 ╔══════════════════════════════════════════════════════════════════════════╗
+
 ║ CONSULTA --> ¿Tiene dezacor efectos adversos en el crecimiento de niños? ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗

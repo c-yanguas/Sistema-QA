@@ -12,7 +12,6 @@ consulta: ¿Tiene dezacor efectos adversos en el crecimiento de niños?
 respuestas:
 
 dezacor - efectos
----------------
 efectos_adversos
 
 - Trastornos gastrointestinales: úlcera gastrointestinal.

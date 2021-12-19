@@ -15,11 +15,11 @@ dezacor:efectos
 efectos_adversos
 
 
--Trastornos gastrointestinales: úlcera gastrointestinal.
--Trastornos del sistema nervioso: dolor de cabeza, vértigo, agitación, trastornos del sueño.
--Trastornos de la piel y del tejido subcutáneo: problemas de cicatrización, lesiones en la piel.
--Trastornos cardiacos y vasculares: incremento de la presión arterial (hipertensión), retención de agua en los tejidos (edema).
--Trastornos endocrinos: aumento de peso, agravamiento de la diabetes mellitus, desaparición de la menstruación.
--Trastornos musculo esqueléticos y del tejido conjuntivo: debilidad muscular, osteoporosis.
--Trastornos oculares: alteraciones oculares.  
+- Trastornos gastrointestinales: úlcera gastrointestinal.
+- Trastornos del sistema nervioso: dolor de cabeza, vértigo, agitación, trastornos del sueño.
+- Trastornos de la piel y del tejido subcutáneo: problemas de cicatrización, lesiones en la piel.
+- Trastornos cardiacos y vasculares: incremento de la presión arterial (hipertensión), retención de agua en los tejidos (edema).
+- Trastornos endocrinos: aumento de peso, agravamiento de la diabetes mellitus, desaparición de la menstruación.
+- Trastornos musculo esqueléticos y del tejido conjuntivo: debilidad muscular, osteoporosis.
+- Trastornos oculares: alteraciones oculares.  
 

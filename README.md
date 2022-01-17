@@ -23,4 +23,4 @@ efectos_adversos
 - Trastornos oculares: alteraciones oculares.  
 
 
-Esto indica que se ha detectado el medicamneto dezacor y gracias a la palbra efectos se ha decidido devolver la información asociada al atributo efectos_adversos del fichero dezacor.json.
+Esto indica que se ha detectado el medicamneto dezacor y gracias a la palabra efectos se ha decidido devolver la información asociada al atributo efectos_adversos del fichero dezacor.json.
